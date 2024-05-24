@@ -5,6 +5,7 @@
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/d10b9381-cb30-4da3-a3c2-6e534ea1be91" width=22% height=35% >
    <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/97c9f2e1-4155-45d3-aced-17f1afe46886" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/510b82c4-18dc-4424-a2e8-d2436971bffa" width=22% height=35% >
+  <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/df91490d-dda3-458b-8989-3c9e4a403016" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/ba297cef-63fe-4faa-b5ed-0826f11f179c" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/72f8e0cd-1f75-4a39-8237-a64d73f11108" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/47ff2569-bec2-4acb-9beb-87b6f315841f" width=22% height=35% >
@@ -17,9 +18,10 @@
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/e785b845-c729-4653-825f-eb05f1d0e640" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/35a69091-0b59-487a-abfe-02ae453b3570" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/e417ca9f-fcc5-4096-86e8-0d32763f202c" width=22% height=35% >
-  <img src = "" width=22% height=35% >
+  
   <video height="450" src="/>
 </p>
+
 
 
 A new Flutter project.
