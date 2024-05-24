@@ -25,9 +25,7 @@
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/e417ca9f-fcc5-4096-86e8-0d32763f202c" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/47ff2569-bec2-4acb-9beb-87b6f315841f" width=22% height=35% >
 
-![grnr](
-![pddddddfff]()
-![view]()
+
 
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/8d6d6e82-f7d4-4e34-88c9-a0e10eba0481)" width=22% height=35% >
   <img src = "https://github.com/mayuuu05/resume_builder/assets/149376263/4e57a2de-bcaa-417f-82b2-5d5f50ed57a7" width=22% height=35% >
